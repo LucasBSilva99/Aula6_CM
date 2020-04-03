@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ACalculator</string>
+    <string name="last"><![CDATA[<]]></string>
+    <string name="division">/</string>
+    <string name="multiply">*</string>
+    <string name="last_value"><![CDATA[<]]></string>
+    <string name="clear">C</string>
+</resources>
